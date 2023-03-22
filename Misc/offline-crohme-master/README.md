@@ -10,3 +10,12 @@ In the easy way, run below command:
 python extract.py
 ```
 Output data must be stored in CROHME_processed folder. Each INKML file will be extracted to a image file and groud-truth latex string in a text file.
+
+
+## For this project:
+Please download the CHROME datasets at their source for usage in this project.
+The sources for the datasets could be found in:
+
+- 2014: https://www.isical.ac.in/~crohme/CROHME_data.html
+- 2016: https://github.com/vndee/offline-crohme/tree/master/CROHME_labeled_2016
+- 2019: https://www.cs.rit.edu/~crohme2019/task.html
